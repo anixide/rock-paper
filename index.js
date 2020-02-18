@@ -1,7 +1,5 @@
 // Working on the browser with prompt
 
-
-
 var i = 0;
 while ( i < 5) {
         const outcomes = ['Rock', 'Paper', 'Scissors'];
@@ -30,6 +28,3 @@ console.log(playRound(playerPlay, computerPlay));
 i++;
 
 }
-
-
-
